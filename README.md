@@ -1,3 +1,3 @@
 # LFPy showcase
 
-This Lab contains various demonstrations on how LFPy (https://github.com/LFPy/LFPy, https://LFPy.rtfd.io) can be utilized on HPC infrastructure via Unicore.
+This Lab contains various demonstrations on how LFPy (https://github.com/LFPy/LFPy, https://LFPy.rtfd.io) can be utilized on HPC infrastructure via Unicore: https://wiki.ebrains.eu/bin/view/Collabs/lfpy-showcase
